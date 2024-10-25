@@ -1,0 +1,29 @@
+[{
+		"nome":	"Coca",
+		"preco":	2.5,
+		"quantidade_estoque":	23
+	}, {
+		"nome":	"Fanta",
+		"preco":	1.5,
+		"quantidade_estoque":	4
+	}, {
+		"nome":	"Guaraná",
+		"preco":	3,
+		"quantidade_estoque":	5
+	}, {
+		"nome":	"Tubaína",
+		"preco":	3.5,
+		"quantidade_estoque":	4
+	}, {
+		"nome":	"coca dois mil",
+		"preco":	3.9000000953674316,
+		"quantidade_estoque":	2
+	}, {
+		"nome":	"jesus",
+		"preco":	1.5,
+		"quantidade_estoque":	45
+	}, {
+		"nome":	"fanta uva",
+		"preco":	3.5,
+		"quantidade_estoque":	10
+	}]
